@@ -8,7 +8,7 @@ function calcularIntereses(cantidadMeses,monto){
 function calcularCuotas(cantidadMeses,intereses,monto){
 let total=0
 total=(monto+intereses)/cantidadMeses
-return total
+return total.toFixed()
 }
 
 function iniciaPrograma(){
