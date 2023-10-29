@@ -1,0 +1,13 @@
+nav{
+    width: 100%;
+}
+.contenedor{
+    width: 40%;
+
+}
+label{
+    font-weight: bold;
+}
+small{
+    color:rgb(172, 172, 172) ;
+}
