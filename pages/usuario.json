@@ -1,0 +1,30 @@
+[
+    {
+        "id":"1",
+        "nombre":"Rafael",
+        "apellido":"Ziraldo",
+        "email":"rafael@ziraldo.com",
+        "password":"Delfin123"
+    },
+    {
+        "id":"2",
+        "nombre":"Diego",
+        "apellido":"Ziraldo",
+        "email":"diego@ziraldo.com",
+        "password":"Delfin456"
+    },
+    {
+        "id":"3",
+        "nombre":"Maria",
+        "apellido":"Ziraldo",
+        "email":"maria@ziraldo.com",
+        "password":"Delfin789"
+    },
+    {
+        "id":"4",
+        "nombre":"Federico",
+        "apellido":"Ziraldo",
+        "email":"federico@ziraldo.com",
+        "password":"Delfin234"
+    }
+]
